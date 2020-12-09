@@ -1,0 +1,2 @@
+# LetsUpgrade_PythonEssentials
+LetsUpgade Python essentials assignments
